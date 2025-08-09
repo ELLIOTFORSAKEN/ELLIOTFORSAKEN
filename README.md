@@ -2,7 +2,7 @@
 <img width="1600"src= "https://i.postimg.cc/bw1c25Mc/image-9c44-gradientmap-pro.png">
 </p>
 <p align="center">
-    <img width="100" src="https://komarev.com/ghpvc/?username=elliotforsaken" alt="counter">
+    <img width="100" src="https://komarev.com/ghpvc/?username=elliotforsaken&color=red&label=employees" alt="counter">
 </p>
 </p>
 <p align="center">
